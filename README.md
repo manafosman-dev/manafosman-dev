@@ -34,4 +34,4 @@ Pursuing my Master's in Computer Science.
 
 ### 📬 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/manaf-osman)
+[LinkedIn](https://www.linkedin.com/in/manaf-osman/)
