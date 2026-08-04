@@ -26,7 +26,7 @@ Pursuing my Master's in Computer Science.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**ML Predictive Model**](https://github.com/YOUR-USERNAME/repo-1) | End-to-end Machine Learning pipeline with exploratory data analysis and feature engineering. | `Python` `Scikit-Learn` `SQL` |
+| [**ML Predictive Model**](https://github.com/manafosman-dev/EV_Battery_Health_Prediction_System.git) | End-to-end Machine Learning pipeline with exploratory data analysis and feature engineering. | `Python` `Scikit-Learn` `SQL` |
 
 
 ---
