@@ -2,7 +2,6 @@
 
 I am a **Data Scientist** with strong expertise in statistical modeling, machine learning, and data analysis. Currently, I am expanding my technical stack into **Backend Engineering with Go** to build high-performance APIs and deploy scalable ML models into production. 
 
-Pursuing my Master's in Computer Science.
 
 ---
 
