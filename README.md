@@ -27,7 +27,7 @@ I am a **Data Scientist** with strong expertise in statistical modeling, machine
 | :--- | :--- | :--- |
 | [**ML Predictive Model**](https://github.com/manafosman-dev/EV_Battery_Health_Prediction_System.git) | End-to-end Machine Learning pipeline with exploratory data analysis and feature engineering. | `Python` `Scikit-Learn` `SQL` |
 | [**CSV Data Quality Analyzer**](https://github.com/manafosman-dev/csv-data-quality-analyzer.git) | Simple application to analyze data quality and generate a cleaned dataframe . | `Python` `Streamlit` `Pandas`|
-| [**Accra EV Stations Coverage**](https://github.com/manafosman-dev/accra_ev_swap_coverage_analysis.git) | A project to understand limited access to existing swap stations and identify suitableareas for future stations . | `Python` `OSMNX` `GeoPandas` `Folium` |
+| [**Accra EV Stations Coverage**](https://github.com/manafosman-dev/accra_ev_swap_coverage_analysis.git) | A project to understand limited access to existing swap stations and identify suitableareas for future stations . | `Python` `OSMnx` `GeoPandas` `Folium` |
 
 ---
 
